@@ -7,9 +7,10 @@ function StreamComponent() {
 
 
   const handleStreamedData = () => {
-    const eventSource = new EventSource('http://localhost:5000/api/stream');
-
+    const eventSource = new EventSource('http://localhost:5000/api/score');
+    console.log("eventSource::::::::",eventSource)
     eventSource.onmessage = (event) => {
+      console.log("event:::::::::::::::",event)
       // Parse the event data (assuming it's plain text)
       const newData = event.data;
       const parsedData  = JSON.parse(newData)
@@ -37,20 +38,21 @@ function StreamComponent() {
   }
 
   const handleFileUpload = async () => {
-    console.log("file:::::::",file)
-    const formData = new FormData();
-    formData.append('file', file)
-    const url = "http://localhost:5000/api/file"
-    const res = await fetch(url,{
-      method: 'POST',
-      body: formData, // Convert the form data to JSON
-    })
+    setPointer(true)
+    // console.log("file:::::::",file)
+    // const formData = new FormData();
+    // formData.append('file', file)
+    // const url = "http://localhost:5000/api/file"
+    // const res = await fetch(url,{
+    //   method: 'POST',
+    //   body: formData, // Convert the form data to JSON
+    // })
 
-    const fileUploadRes = await res.text()
-    if(fileUploadRes){
-      setPointer(true)
-    }
-    console.log("fileUploadRes:::::::",fileUploadRes)
+    // const fileUploadRes = await res.text()
+    // if(fileUploadRes){
+    //   setPointer(true)
+    // }
+    // console.log("fileUploadRes:::::::",fileUploadRes)
   }
 
   return (

@@ -1,0 +1,9 @@
+langchain
+openai
+tiktoken
+faiss-cpu
+unstructured
+flask
+#chromadb
+
+# bash .venv/Scripts/activate

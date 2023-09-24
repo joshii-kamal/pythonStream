@@ -1,0 +1,29 @@
+Question 1: What is chemistry, and why is it important?
+Answer: Chemistry is the branch of science that studies the composition, structure, properties, and changes of matter. It is important because it helps us understand the world around us, develop new materials, medicines, and technologies, and solve environmental and industrial challenges.
+
+Question 2: What is an element in chemistry?
+Answer: An element is a substance that consists of only one type of atom, characterized by its unique atomic number. Elements cannot be broken down into simpler substances by chemical reactions. For example, oxygen (O), hydrogen (H), and carbon (C) are elements.
+
+Question 3: What is the periodic table, and how is it organized?
+Answer: The periodic table is a tabular arrangement of chemical elements based on their atomic number and chemical properties. It is organized into rows (periods) and columns (groups) where elements with similar properties are grouped together. Elements in the same group often have similar chemical behaviors.
+
+Question 4: What is a chemical compound?
+Answer: A chemical compound is a substance composed of two or more different elements chemically bonded together in fixed ratios. Water (H2O) and carbon dioxide (CO2) are examples of chemical compounds.
+
+Question 5: What is the difference between a chemical reaction and a physical change?
+Answer: A chemical reaction involves the formation or breaking of chemical bonds, resulting in the conversion of one or more substances into new substances with different properties. A physical change, on the other hand, alters the physical state or appearance of a substance without changing its chemical composition. Melting ice or dissolving salt in water are examples of physical changes.
+
+Question 6: What is the Law of Conservation of Mass?
+Answer: The Law of Conservation of Mass states that in a chemical reaction, the total mass of the reactants is equal to the total mass of the products. Mass is neither created nor destroyed during a chemical reaction, only rearranged.
+
+Question 7: What is an acid and a base in chemistry?
+Answer: An acid is a substance that can donate a proton (H+) in a chemical reaction, increasing the concentration of H+ ions in a solution. A base is a substance that can accept a proton (H+), decreasing the concentration of H+ ions. Acids typically have a pH less than 7, while bases have a pH greater than 7.
+
+Question 8: What is the difference between an exothermic and an endothermic reaction?
+Answer: An exothermic reaction releases heat energy into its surroundings, causing an increase in temperature. In contrast, an endothermic reaction absorbs heat energy from its surroundings, resulting in a decrease in temperature. Combustion reactions are often exothermic, while the process of photosynthesis is endothermic.
+
+Question 9: What are isotopes?
+Answer: Isotopes are variants of an element with the same number of protons (and thus the same chemical properties) but different numbers of neutrons in their nuclei. This results in variations in atomic mass. For example, carbon-12 (12C) and carbon-14 (14C) are isotopes of carbon.
+
+Question 10: What is the difference between a physical mixture and a chemical compound?
+Answer: A physical mixture, also known as a mixture, consists of two or more substances physically combined but not chemically bonded. The components of a mixture retain their individual properties and can be separated by physical means. In contrast, a chemical compound is a substance formed by chemical bonding and has a fixed chemical composition.

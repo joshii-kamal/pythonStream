@@ -29,7 +29,7 @@ CORS(app, supports_credentials=True)  # Enable CORS with supports_credentials=Tr
 #         ]
 
 data = [
-
+    1,2,3,4,5,6,7,8,9,0
 ]
 
 @app.route('/api/file', methods=['POST'])
@@ -54,13 +54,16 @@ def stream():
         time.sleep(2)
     
     def generate_stream():
+        i = 0
         if(len(data) > 0) :
-            for line in data:
+            while i < 10 :
+            # for line in data:
                 time.sleep(2)
-                json_data = json.dumps(line)
+                # json_data = json.dumps(line)
                 # result = gpt(question ,answer)
-                print(json_data)
-                yield f"data: {json_data}\n\n"
+                print(i)
+                i +=1
+                yield f"data: {i}\n\n"
                   
     return Response(generate_stream(), mimetype="text/event-stream")
 

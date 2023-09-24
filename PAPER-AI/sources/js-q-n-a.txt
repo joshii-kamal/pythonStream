@@ -1,0 +1,30 @@
+Question 1: What is JavaScript, and what is its role in web development?
+Answer: JavaScript is a high-level, interpreted programming language primarily used for web development. It is commonly used to add interactivity, manipulate the Document Object Model (DOM), and create dynamic content on websites.
+
+Question 2: What is the DOM, and how does JavaScript interact with it?
+Answer: The Document Object Model (DOM) is a programming interface for web documents. It represents the structure of an HTML document as a tree of objects that can be manipulated with JavaScript. JavaScript can access, modify, or update the DOM to change the content and behavior of web pages dynamically.
+
+Question 3: How do you declare variables in JavaScript, and what are the variable types?
+Answer: Variables in JavaScript are declared using the var, let, or const keywords. JavaScript has several variable types, including numbers, strings, booleans, objects, arrays, and functions.
+
+Question 4: What is an array in JavaScript, and how do you access its elements?
+Answer: An array in JavaScript is a data structure that stores a collection of values, which can be of any data type. You can access elements in an array using square brackets and an index, like myArray[0] to access the first element.
+
+Question 5: What is the difference between null and undefined in JavaScript?
+Answer: null represents an intentional absence of any object value, while undefined indicates a variable that has been declared but has not been assigned a value.
+
+Question 6: How do you create functions in JavaScript, and what is a function's purpose?
+Answer: Functions in JavaScript are declared using the function keyword. They are reusable blocks of code that can perform specific tasks or calculations. Functions are used to modularize code and make it more maintainable.
+
+Question 7: What is event handling in JavaScript, and how do you attach event listeners?
+Answer: Event handling allows you to respond to user actions, such as clicks or keyboard input. You can attach event listeners to HTML elements using JavaScript to execute specific functions when the event occurs. For example, you can use addEventListener to listen for a click event on a button element.
+
+Question 8: What is asynchronous programming in JavaScript, and how is it achieved?
+Answer: Asynchronous programming in JavaScript allows you to perform tasks without blocking the main execution thread. It is commonly used for tasks like fetching data from servers or handling user input. Asynchronous operations are achieved using callbacks, Promises, or the newer async/await syntax.
+
+Question 9: What is a closure in JavaScript?
+Answer: A closure is a JavaScript feature that allows a function to remember and access variables from its outer (enclosing) scope even after that outer function has finished executing. Closures are often used for data encapsulation and maintaining state.
+
+Question 10: What are the differences between == and === in JavaScript?
+Answer: == is used for loose equality and compares values without considering their data types, while === is used for strict equality and compares both values and data types. For most cases, it is recommended to use === for more predictable results in comparisons.
+
